@@ -21,11 +21,17 @@ body {
 }
 
 .o-formfield-font {
-  color: #3366FF;
   font-style: italic;
   font-style: bold;
 }
 
+.o-formfield-font1 {
+  color: #3366FF;
+}
+
+.o-formfield-size1 {
+  border-color: #3366FF;
+}
 
 .navbar-wrapper {
   position: absolute;
